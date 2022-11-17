@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(blue,WHITE);
+}
+h1{
+    color: aliceblue;
+}
+
+h2{
+
+    color: white;
+    background: green;
+}
+    form{
+    background:linear-gradient(chartreuse,yellow);
+}
+
+th, td{
+    border: 2px solid;
+    border-color: salmon;
+    text-align: center;
+    font-size: 20px;
+}
+
