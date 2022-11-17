@@ -1,16 +1,23 @@
 body{
-  background: blue;
-}
-form label{
-  display: block;
-  font-size: 20px;
-  color: white;
-}
-form input{
-  background: white;
-  display: block;
+    background:linear-gradient(blue,WHITE);
 }
 h1{
-  text-decoration: underline;
-  color: yellow;
+    color: aliceblue;
 }
+
+h2{
+
+    color: white;
+    background: ;
+}
+    form{
+    background:linear-gradient(chartreuse,yellow);
+}
+
+th, td{
+    border: 2px solid;
+    border-color: salmon;
+    text-align: center;
+    font-size: 20px;
+}
+
